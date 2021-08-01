@@ -16,6 +16,6 @@ let chooseCat =prompt("which cat do you want to know about please choose one of 
 alert(chooseCat);
 console.log(cat);
 
-
+ 
 
 
